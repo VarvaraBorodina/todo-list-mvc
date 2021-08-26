@@ -9,7 +9,7 @@ Adapted for mobile phones and tablets.
 
 - tailwind
 - flexbox
-- locaSstorage
+- localStorage
 - mvc-pattern
 - svg
 - javascript modules
