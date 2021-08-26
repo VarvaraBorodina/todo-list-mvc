@@ -2,7 +2,8 @@
 
 ### DESCRIPTION
 
-Simple todo-list for taking notes with functions to add a note, delete one or all notes. Adapted for mobile phones and tablets.
+Simple todo-list for taking notes with functions to add a note, delete one or all notes. 
+Adapted for mobile phones and tablets.
 
 ### TECHNOLOGIES
 
